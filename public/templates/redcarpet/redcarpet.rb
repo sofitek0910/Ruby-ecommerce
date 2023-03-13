@@ -16,7 +16,7 @@ extensions = {
 renderer = Redcarpet::Render::HTML.new(options)
 markdown = Redcarpet::Markdown.new(renderer, extensions)
 
-text = <<~EOF
+text = <<~EOF 
   # Hello
 
   * 1 - Coffee
