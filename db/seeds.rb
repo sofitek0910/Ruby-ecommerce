@@ -10,7 +10,7 @@ categories = ['Animais e acessórios',
               'Músicas e hobbies',
               'Bebês e crianças',
               'Moda e beleza',
-              'Veículos e barcos',
+              'Veículos e barcos', 
               'Imóveis',
               'Empregos e negócios']
 
