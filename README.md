@@ -22,7 +22,7 @@ ruby 2.7.0
 
 ## Rails version
 Rails 6.0.2
-
+ 
 ## System dependencies
 
 * Any *nix plataform
