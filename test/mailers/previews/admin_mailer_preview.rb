@@ -9,3 +9,4 @@ class AdminMailerPreview < ActionMailer::Preview
     AdminMailer.send_message(Admin.first.email, Admin.last.email, 'Subject Test', 'Loren loren...')
   end
 end
+ 
