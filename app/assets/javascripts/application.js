@@ -16,7 +16,7 @@
 
 /* Spin */
 $(document).ready(function() {
-  //Global ajax cursor change
+  //Global ajax cursor change 
   $(document)
     .ajaxStart(function () {
       $('#global-spin').fadeIn('slow');
