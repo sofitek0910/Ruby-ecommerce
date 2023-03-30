@@ -22,7 +22,7 @@ class ApplicationController < ActionController::Base
     elsif devise_controller? && resource_name == :member
       'site_devise'
     else
-      'application'
+      'application' 
     end
   end
 
