@@ -13,7 +13,7 @@
 //= require jquery
 //= require jquery_ujs
 //= require bootstrap.growl
-
+ 
 /* Spin */
 $(document).ready(function() {
   //Global ajax cursor change 

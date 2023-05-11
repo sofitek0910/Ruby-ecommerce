@@ -21,7 +21,7 @@ namespace :dev do
     puts `rake dev:generate_comments`
 
     puts 'Setup executado com sucesso!'
-  end
+  end 
 
   #####################################################################################################
 
